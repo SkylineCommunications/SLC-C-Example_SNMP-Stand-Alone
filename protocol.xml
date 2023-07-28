@@ -384,7 +384,7 @@ DATE		VERSION		AUTHOR			COMMENTS
 						<MajorVersions>
 							<MajorVersion id="0">
 								<MinorVersions>
-									<MinorVersion id="1" basedOn="None">
+									<MinorVersion id="1">
 										<Date>2023-07-28</Date>
 										<Provider>
 											<Author>JST</Author>
